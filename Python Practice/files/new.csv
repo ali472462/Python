@@ -1,0 +1,10 @@
+City,Date,Temperature (°C),Humidity (%),Wind Speed (km/h)
+New York,8/1/2023,28,60,10
+New York,8/2/2023,27,65,12
+New York,8/3/2023,25,70,15
+Los Angeles,8/1/2023,32,45,8
+Los Angeles,8/2/2023,31,50,10
+Los Angeles,8/3/2023,30,55,12
+London,8/1/2023,22,80,20
+London,8/2/2023,20,85,18
+London,8/3/2023,19,90,22
